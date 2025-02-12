@@ -1,0 +1,1 @@
+forrasfajl = open('sneakers - Nike_shoes_2023-04-16.csv')
